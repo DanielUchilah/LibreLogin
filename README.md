@@ -3,6 +3,10 @@
 
 (formerly LibrePremium) is an open-source, multiplatform, and highly customizable authentication plugin with outstanding features and API.
 
+## This version
+This version is a fork that only updates dependencies to work on newer versions of Minecraft (up to 26.1.2)
+Was tested on a Paper 26.1.2 server with Java 17 and avg. 10-20 Players for a month.
+
 # Quick information
 
 <img src="https://img.shields.io/badge/Java%20version-%2017+-blue?style=for-the-badge&logo=java&logoColor=white"
